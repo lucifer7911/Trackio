@@ -1,0 +1,11 @@
+*.dart linguist-language=Dart
+*.yaml linguist-language=Dart
+
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+*.mm linguist-vendored
+
+android/** linguist-vendored
+ios/** linguist-vendored
